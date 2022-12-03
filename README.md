@@ -3,6 +3,6 @@ This is the repository for the demonstration of selected 10 exercises which fini
 
 Opearting System: Win10
 
-C++ Version: Visual C++ 2019
+C++ Version: Visual C++ 2022
 
-IDE: Visual Studio 2022
+IDE: Visual Studio Community 2022
